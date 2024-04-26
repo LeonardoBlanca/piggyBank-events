@@ -1,0 +1,14 @@
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\bin\Debug\net8.0\piggyBank.exe
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\bin\Debug\net8.0\piggyBank.deps.json
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\bin\Debug\net8.0\piggyBank.runtimeconfig.json
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\bin\Debug\net8.0\piggyBank.dll
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\bin\Debug\net8.0\piggyBank.pdb
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.AssemblyInfoInputs.cache
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.AssemblyInfo.cs
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.csproj.CoreCompileInputs.cache
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.dll
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\refint\piggyBank.dll
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.pdb
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.genruntimeconfig.cache
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\ref\piggyBank.dll
