@@ -12,3 +12,4 @@ G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\refint\pi
 G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.pdb
 G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.genruntimeconfig.cache
 G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\ref\piggyBank.dll
+G:\Projetos Programação\C#\Lnkd\piggybank\piggyBank\obj\Debug\net8.0\piggyBank.sourcelink.json
